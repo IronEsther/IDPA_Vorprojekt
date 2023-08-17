@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\bin\Debug\net6.0\IDPA_Vorprojekt_SAND.exe
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\bin\Debug\net6.0\IDPA_Vorprojekt_SAND.deps.json
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\bin\Debug\net6.0\IDPA_Vorprojekt_SAND.runtimeconfig.json
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\bin\Debug\net6.0\IDPA_Vorprojekt_SAND.dll
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\bin\Debug\net6.0\IDPA_Vorprojekt_SAND.pdb
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.AssemblyInfo.cs
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.dll
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\refint\IDPA_Vorprojekt_SAND.dll
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.pdb
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\IDPA_Vorprojekt_SAND.genruntimeconfig.cache
+C:\Users\andre\OneDrive - BBBaden\Dokumente\GitHub\IDPA_Vorprojekt\IDPA_Vorprojekt_SAND\obj\Debug\net6.0\ref\IDPA_Vorprojekt_SAND.dll
