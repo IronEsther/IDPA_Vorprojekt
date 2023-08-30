@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive - BBBaden\\Dokumente\\GitHub\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj": {}
+    "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive - BBBaden\\Dokumente\\GitHub\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj": {
+    "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive - BBBaden\\Dokumente\\GitHub\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
+        "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
         "projectName": "IDPA_Vorprojekt_SAND",
-        "projectPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Dokumente\\GitHub\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive - BBBaden\\Dokumente\\GitHub\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\obj\\",
+        "projectPath": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
+        "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,9 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagesource": {},
-          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -58,30 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.21, 6.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
