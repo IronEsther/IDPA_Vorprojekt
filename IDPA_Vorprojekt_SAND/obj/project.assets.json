@@ -475,19 +475,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shane\\.nuget\\packages\\": {}
+    "C:\\Users\\BBB\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
+      "projectUniqueName": "C:\\Users\\BBB\\Documents\\Schule\\BBB\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
       "projectName": "IDPA_Vorprojekt_SAND",
-      "projectPath": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
-      "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\obj\\",
+      "projectPath": "C:\\Users\\BBB\\Documents\\Schule\\BBB\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
+      "packagesPath": "C:\\Users\\BBB\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BBB\\Documents\\Schule\\BBB\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BBB\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -495,7 +495,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/discord-net/api/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -534,7 +535,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
