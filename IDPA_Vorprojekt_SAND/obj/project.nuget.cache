@@ -1,20 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "j0vFesJjNwkhHVFWjYriww0X1vzhwKWY6lgiqFK7d7PH3c9iJo9p0qii7eLlzbhgu3jxu0ST33x0EacIWjMeGw==",
+  "dgSpecHash": "nRsZ2KRwDHFT1lgsHCfh5xky4T69235YgDCQK6QAo+DOHhDAjXMxJFrX8pL16AGeeoqcxSX6E8Y+o1B/mQkfmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive - BBBaden\\Dokumente\\GitHub\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
+  "projectFilePath": "C:\\Users\\BBB\\Documents\\Schule\\BBB\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+    "C:\\Users\\BBB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BBB\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "C:\\Users\\BBB\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\BBB\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\BBB\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\BBB\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\BBB\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
