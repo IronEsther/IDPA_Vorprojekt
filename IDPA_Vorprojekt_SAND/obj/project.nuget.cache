@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "nRsZ2KRwDHFT1lgsHCfh5xky4T69235YgDCQK6QAo+DOHhDAjXMxJFrX8pL16AGeeoqcxSX6E8Y+o1B/mQkfmQ==",
+  "dgSpecHash": "nPvNTLOQ+xgFXbUMrpkdgldL8nCPydY1oeuZ+a53sW7XhmE5uIfR//d9rsC+3o3qe2Efifaf7AtjfvTlMc2f8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BBB\\Documents\\Schule\\BBB\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
+  "projectFilePath": "C:\\Users\\shane\\OneDrive\\Desktop\\Schule\\Kanti\\IDPA\\IDPA_Vorprojekt\\IDPA_Vorprojekt_SAND\\IDPA_Vorprojekt_SAND.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BBB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\BBB\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
-    "C:\\Users\\BBB\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
-    "C:\\Users\\BBB\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
-    "C:\\Users\\BBB\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\BBB\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\BBB\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.netcore.targets\\1.1.2\\microsoft.netcore.targets.1.1.2.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

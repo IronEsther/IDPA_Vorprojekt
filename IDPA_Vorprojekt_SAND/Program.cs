@@ -1,5 +1,6 @@
 ﻿using System;
 using IDPA_Vorprojekt_SAND;
+using static IDPA_Vorprojekt_SAND.Extras;
 
 namespace IDPA_Vorprojekt_SAND
 {
@@ -23,7 +24,7 @@ namespace IDPA_Vorprojekt_SAND
                 }
                 catch
                 {
-                    Console.WriteLine("Es werden nur Zahlen aktzeptieren. Gib bitte eine gültige Eingabe ein.");
+                    Tastatur("Es werden nur Zahlen aktzeptieren. Gib bitte eine gültige Eingabe ein.");
                 }
             }
             return output;
