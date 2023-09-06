@@ -34,7 +34,7 @@ namespace IDPA_Vorprojekt_SAND
                 Bonus = Kapital * Zinssatz / 100 / 360 * Geburtstag;
                 Tastatur("Der Bonus für den Kunden beträgt " + Bonus + " CHF.");
                 Tastatur("Wollen Sie noch einen Kunden erfassen? [Ja/Nein]");
-                if(Console.ReadLine() == "Nein")
+                if(Console.ReadLine().ToLower() == "nein")
                 {
                     Environment.Exit(0);
                 }

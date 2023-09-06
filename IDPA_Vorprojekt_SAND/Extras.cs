@@ -10,6 +10,10 @@ namespace IDPA_Vorprojekt_SAND
     {
         public static void Tastatur(string Text)
         {
+            /* Nimmt einen String und Schreibt jeden Buschstaben einer nach dem anderen,
+             * um das schreiben einer Tastatur zu simulieren.
+             */
+
             foreach (char c in Text)
             {
                 Console.Write(c);
