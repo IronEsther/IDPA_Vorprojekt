@@ -23,22 +23,11 @@ namespace IDPA_Vorprojekt_SAND
                 Tastatur("Geben Sie den Spezialzinssatz an.");
                 Console.WriteLine("Zum Beispiel: Falls Sie einen Zins von 2,1% eingeben wollen, dann geben Sie 2.1 ein.");
                 Zinssatz = Eingabe(1);
-                if (Geburtstag > 30)
-                {
-                    Geburtstag = 30;
-                }
-                else if(Geburtstag < 1)
-                {
-                    Geburtstag = 1;
-                }
+
                 Bonus = Kapital * Zinssatz / 100 / 360 * Geburtstag;
                 Tastatur("Der Bonus für den Kunden beträgt " + Bonus + " CHF.");
-                Tastatur("Wollen Sie noch einen Kunden erfassen? [Ja/Nein]");
-                if(Console.ReadLine().ToLower() == "nein")
-                {
-                    Environment.Exit(0);
-                }
 
+                WeitererKunde();
             }
         }
 
@@ -101,6 +90,17 @@ namespace IDPA_Vorprojekt_SAND
 
                 Tastatur("Es werden nur Zahlen aktzeptieren. Gib bitte eine gültige Eingabe ein.");
                 ErsterFehler = false;
+            }
+        }
+
+        public static void WeitererKunde()
+        {
+            // Fragt Nutzer öb noch ein weiterer Kunde berechnet werden soll.
+
+            Tastatur("Wollen Sie noch einen Kunden erfassen? [Ja/Nein]");
+            if (Console.ReadLine().ToLower() == "nein")
+            {
+                Environment.Exit(0);
             }
         }
     }
