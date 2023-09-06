@@ -95,7 +95,7 @@ namespace IDPA_Vorprojekt_SAND
 
         public static void WeitererKunde()
         {
-            // Fragt Nutzer öb noch ein weiterer Kunde berechnet werden soll.
+            // Fragt Nutzer ob noch ein weiterer Kunde berechnet werden soll.
 
             Tastatur("Wollen Sie noch einen Kunden erfassen? [Ja/Nein]");
             if (Console.ReadLine().ToLower() == "nein")
