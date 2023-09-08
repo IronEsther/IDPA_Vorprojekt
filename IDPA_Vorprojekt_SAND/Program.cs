@@ -34,14 +34,14 @@ namespace IDPA_Vorprojekt_SAND
         static double Eingabe(int Funktion)
         {
             /* Funktion um die Eingabe eines Nutzers zu behandeln, gibt einen Double zurück.
-             * Nimmt ausserdem Integer um spezielle szenarien spezifisch zu Behandeln.
+             * Nimmt ausserdem Integer um spezielle Szenarien spezifisch zu behandeln.
              */
 
             string input;
             double output = 0;
 
             ErsterFehler = true;
-            //Setzt ErsterFehler auf True um bei der ersten Falscheingabe einen Kommentar in der Konsole auszugeben.
+            //Setzt ErsterFehler auf "true" um bei der ersten Falscheingabe einen Kommentar in der Konsole auszugeben.
 
             while (true)
             {
@@ -74,7 +74,7 @@ namespace IDPA_Vorprojekt_SAND
                 catch
                 {
                     FehlerBehandlung();
-                    //Wird ausgeführt, wenn der Nutzer eine Falsche eingabe tätigt.
+                    //Wird ausgeführt, wenn der Nutzer eine falsche Eingabe tätigt.
                 }
             }
             return output;
