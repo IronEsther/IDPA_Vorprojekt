@@ -49,6 +49,7 @@ namespace IDPA_Vorprojekt_SAND
                 {
                     input = Console.ReadLine();
                     output = Convert.ToDouble(input);
+
                     if (Funktion == 2)
                     {
                         //Wird ausgeführt um beim Geburtsdatum Fehleingaben speziell zu behandeln.
@@ -62,6 +63,12 @@ namespace IDPA_Vorprojekt_SAND
                             throw new Exception();
                         }
                     }
+
+                    if (output < 0)
+                    {
+                        throw new Exception();
+                    }
+
                     break;
                 }
                 catch
