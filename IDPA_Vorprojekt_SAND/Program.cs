@@ -126,7 +126,7 @@ namespace IDPA_Vorprojekt_SAND
             {
                 //Fehlergrund wird nur bei der ersten Fehleingabe ausgegeben.
 
-                Tastatur("Es werden nur Zahlen aktzeptieren. Geben Sie bitte eine gültige Eingabe ein.");
+                Tastatur("Es werden nur Zahlen aktzeptiert. Geben Sie bitte eine gültige Eingabe ein.");
                 ErsterFehler = false;
             }
         }
