@@ -92,6 +92,8 @@ namespace IDPA_Vorprojekt_SAND
 
             Bonus = Kapital * Zinssatz / 100 / 360 * Geburtstag;
             Tastatur("Der Bonus für den Kunden beträgt " + Bonus + " CHF.");
+            Tastatur("Verechnungssteuer: " + Bonus*0.65 + " CHF gehen an den Kunden.");
+            Tastatur(Bonus * 0.35 + " CHF gehen an die Eidgenössische Steuerverwaltung.");
         }
 
         public static void WeitererKunde()
